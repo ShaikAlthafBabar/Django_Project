@@ -9,15 +9,11 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/ShaikAlthafBabar/Django_Project.git
-Navigate to the project directory:
 
-bash
-Copy code
+Navigate to the project directory:
 cd Django_Project
+
 Create a virtual environment:
 
 bash
@@ -26,29 +22,25 @@ python -m venv env
 Activate the virtual environment:
 
 For Windows:
-bash
-Copy code
 .\env\Scripts\activate
+
 For macOS/Linux:
-bash
-Copy code
 source env/bin/activate
+
 Install the required packages:
-
-bash
-Copy code
 pip install -r requirements.txt
-Run the development server:
 
-bash
-Copy code
+Run the development server:
 python manage.py runserver
+
+
 Access the application in your browser: Open http://127.0.0.1:8000 to view the application.
 
 Usage
 Browse: Navigate through the movie list to see details, ratings, and platforms.
 Search: Use the search functionality to find specific movies.
 Rating System: Users can rate movies and view average ratings.
+
 Technologies Used
 Backend: Python, Django
 Database: SQLite (can be configured to use other databases like PostgreSQL)
