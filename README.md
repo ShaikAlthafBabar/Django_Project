@@ -15,11 +15,9 @@ Navigate to the project directory:
 cd Django_Project
 
 Create a virtual environment:
-
-bash
-Copy code
 python -m venv env
-Activate the virtual environment:
+
+Activating the virtual environment:
 
 For Windows:
 .\env\Scripts\activate
