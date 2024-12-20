@@ -2,7 +2,7 @@ IMDb Clone using Python Django
 This project is a clone of the IMDb website built using Python Django. It allows users to browse movies, view their ratings, and find streaming platforms where they can watch these movies.
 
 Features
-Browse Movies: View a list of movies with details including title, genre, and release year.
+Browse Movies: View a list of movies with details including title, and their description.
 Movie Ratings: See user ratings for each movie.
 Streaming Platforms: Discover where you can watch movies across different streaming services.
 Installation
